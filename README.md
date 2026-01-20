@@ -28,6 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
-<h1 align="center">Forgot to mention but it's important!
-Think for yourself, agreement is how stupidity spreads.</h1>
+<h1 align="center">Forgot to mention but it's important!</h1>
+<h2 align="center">Think for yourself, agreement is how stupidity spreads.</h1>
 <div align="center">
