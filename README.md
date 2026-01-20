@@ -1,6 +1,4 @@
 <h1 align="center">Crimson here. Formalities are for people without ideas.</h1>
-
-<h1 align="center">Think for yourself. <br>Agreement is how stupidity spreads.</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
