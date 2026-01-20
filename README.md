@@ -1,6 +1,4 @@
 <h1 align="center">Welcome, i'm Crimson</h1>
-
-<h2 align="center"> Whatever happens, happens... </h2>
 <div align="center">
   <img src="https://64.media.tumblr.com/a0736493710e99877d487757abe9d396/tumblr_p32yxcaJxi1vfhgp6o1_500.gif" alt="Whatever happens happens GIF" width="500" />
 </div>
