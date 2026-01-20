@@ -28,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelcrimson/rafaelcrimson/output/pacman-contribution-graph-dark.svg">
