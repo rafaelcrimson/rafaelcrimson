@@ -1,9 +1,6 @@
-<h1 align="center">Welcome, i'm Crimson</h1>
-<div align="center">
-  <img src="https://64.media.tumblr.com/a0736493710e99877d487757abe9d396/tumblr_p32yxcaJxi1vfhgp6o1_500.gif" alt="Whatever happens happens GIF" width="500" />
-</div>
+<h1 align="center">Crimson here. Formalities are for people without ideas.</h1>
+
 <h1 align="center">Think for yourself. <br>Agreement is how stupidity spreads.</h1>
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
@@ -33,17 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelcrimson/rafaelcrimson/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelcrimson/rafaelcrimson/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaelcrimson/rafaelcrimson/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/rafaelcrimson/rafaelcrimson/output/snake.svg" alt="Snake animation" />
 
 ###
